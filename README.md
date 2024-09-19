@@ -42,5 +42,4 @@ Add options to filter colors based on lightness, darkness, hue, or saturation.
 Implement a color history feature to keep track of previously generated colors.
 Allow users to specify a desired color range for generation.
 Integrate with design tools or applications.
-Contributing
 
